@@ -1,4 +1,4 @@
 # repositator
 
-Manipulating [tuftool](tuftool = "0.3.0") 
+Manipulating [tuftool](https://crates.io/crates/tuftool) 
 to create repositories. 
