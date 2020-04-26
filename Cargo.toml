@@ -1,0 +1,11 @@
+[package]
+name = "repositator"
+version = "0.1.0"
+authors = ["Todd Stellanova <tstellanova@users.noreply.github.com>"]
+edition = "2018"
+
+
+[dependencies]
+chrono = "0.4.11"
+tempfile = "3.1.0"
+
